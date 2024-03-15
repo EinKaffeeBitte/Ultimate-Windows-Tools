@@ -48,4 +48,4 @@ Come on! You need some refresh. Don't use Google Chrome all the time, it gets bo
 
 ## 10. Python:
 
-Even if you don't want to do some programming, python can really automate Windows for you! It has a really simple syntax almost equal to English, and it's super easy to install, learn and use! It is very powerful, and also used for making AI. Download for Windows 64-bit x64: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe. Other Downloads for the currently latest version (3.11.5): https://www.python.org/downloads/.
+Even if you don't want to do some programming, python can really automate Windows for you! It has a really simple syntax almost equal to English, and it's super easy to install, learn and use! It is very powerful, and also used for making AI. Download for Windows 64-bit x64 (NOT THE LATEST VERSION): https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe. Other Downloads for my favourite version (3.11.5): https://www.python.org/downloads/.
